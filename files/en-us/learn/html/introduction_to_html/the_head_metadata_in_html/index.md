@@ -188,7 +188,7 @@ Twitter also has its own similar proprietary metadata called [Twitter Cards](htt
 
 ## Adding custom icons to your site
 
-To further enrich your site design, you can add references to custom icons in your metadata, and these will be displayed in certain contexts. The most commonly used of these is the **favicon** (short for "favorites icon", referring to its use in the "favorites" or "bookmarks" lists in browsers).
+To further enrich your site design, you can add references to custom icons in your metadata, and these will be displayed in certain contexts. The most common use of these is the **favicon** (short for "favorites icon", referring to its use in the "favorites" or "bookmarks" lists in browsers).
 
 The humble favicon has been around for many years. It is the first icon of this type: a 16-pixel square icon used in multiple places. You may see (depending on the browser) favicons displayed in the browser tab containing each open page, and next to bookmarked pages in the bookmarks panel.
 
